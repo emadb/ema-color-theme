@@ -2,6 +2,7 @@
     "name": "ema",
     "displayName": "ema",
     "description": "A dark blue theme",
+    "publisher": "ema-color-theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.31.0"
@@ -17,5 +18,8 @@
                 "path": "./themes/ema-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "1.57.0"
     }
 }
