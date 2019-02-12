@@ -4,6 +4,9 @@
     "description": "A dark blue theme",
     "publisher": "ema-color-theme",
     "version": "0.0.1",
+    "repository": {
+        "url": "https://github.com/emadb/ema-color-theme"
+    },
     "engines": {
         "vscode": "^1.31.0"
     },
