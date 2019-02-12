@@ -3,7 +3,7 @@
     "displayName": "ema",
     "description": "A dark blue theme",
     "publisher": "ema-color-theme",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/emadb/ema-color-theme"
@@ -15,9 +15,9 @@
         "Themes"
     ],
     "icon": "ema.png",
-	"galleryBanner": {
-		"color": "#1C2B35",
-		"theme": "dark"
+    "galleryBanner": {
+        "color": "#1C2B35",
+        "theme": "dark"
     },
     "homepage": "https://github.com/emadb/ema-color-theme",
     "contributes": {
