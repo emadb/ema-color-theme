@@ -26,9 +26,9 @@
 		"tab.inactiveBackground": "#2b3b44",
 		"titleBar.activeBackground": "#374d59",
 		"widget.shadow": "#0b1b24",
-		"list.dropBackground": "#5590C2",
-		"editorSuggestWidget.selectedBackground": "#5590C2",
-		"list.focusBackground": "#5590C2"
+		"list.dropBackground": "#4D7997",
+		"editorSuggestWidget.selectedBackground": "#4D7997",
+		"list.focusBackground": "#4D7997"
 
 		//"activityBar.dropBackground": "#ffffff1f",
 		//"activityBar.foreground": "#ffffff",
