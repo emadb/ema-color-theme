@@ -26,6 +26,10 @@
 		"tab.inactiveBackground": "#2b3b44",
 		"titleBar.activeBackground": "#374d59",
 		"widget.shadow": "#0b1b24",
+		"list.dropBackground": "#5590C2",
+		"editorSuggestWidget.selectedBackground": "#5590C2",
+		"list.focusBackground": "#5590C2"
+
 		//"activityBar.dropBackground": "#ffffff1f",
 		//"activityBar.foreground": "#ffffff",
 		//"activityBar.inactiveForeground": "#ffffff99",
@@ -108,7 +112,7 @@
 		//"editorSuggestWidget.border": "#454545",
 		//"editorSuggestWidget.foreground": "#cdd3de",
 		//"editorSuggestWidget.highlightForeground": "#0097fb",
-		//"editorSuggestWidget.selectedBackground": "#062f4a",
+		
 		//"editorUnnecessaryCode.opacity": "#000000aa",
 		//"editorWarning.foreground": "#4d9e4d",
 		//"editorWidget.border": "#454545",
@@ -135,9 +139,9 @@
 		//"inputValidation.warningBackground": "#352a05",
 		//"inputValidation.warningBorder": "#b89500",
 		//"list.activeSelectionForeground": "#ffffff",
-		//"list.dropBackground": "#062f4a",
+		
 		//"list.errorForeground": "#f88070",
-		//"list.focusBackground": "#062f4a",
+		
 		//"list.highlightForeground": "#0097fb",
 		//"list.inactiveFocusBackground": "#313135",
 		//"list.invalidItemForeground": "#b89500",
