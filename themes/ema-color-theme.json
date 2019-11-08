@@ -16,6 +16,8 @@
 		"editorIndentGuide.background": "#263638",
 		"editorWhitespace.foreground": "#65737e",
 		"editorWidget.background": "#1b2b34",
+		"activityBar.activeBorder": "#4D7997",
+		"activityBar.activeBackground": "#4D7997",
 		"input.background": "#2b3b44",
 		"list.activeSelectionBackground": "#2b3b44",
 		"list.hoverBackground": "#2b3b44",

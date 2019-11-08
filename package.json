@@ -3,7 +3,7 @@
     "displayName": "ema",
     "description": "A dark blue theme",
     "publisher": "ema-color-theme",
-    "version": "0.4.0",
+    "version": "0.5.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/emadb/ema-color-theme"
@@ -30,6 +30,6 @@
         ]
     },
     "dependencies": {
-        "vsce": "1.67.1"
+        "vsce": "1.57.0"
     }
 }
