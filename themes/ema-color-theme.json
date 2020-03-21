@@ -29,8 +29,7 @@
 		"widget.shadow": "#0b1b24",
 		"list.dropBackground": "#4D7997",
 		"editorSuggestWidget.selectedBackground": "#4D7997",
-		"list.focusBackground": "#4D7997"
-
+		"list.focusBackground": "#7e8c96",
 		//"activityBar.dropBackground": "#ffffff1f",
 		//"activityBar.foreground": "#ffffff",
 		//"activityBar.inactiveForeground": "#ffffff99",
